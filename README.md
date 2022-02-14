@@ -1,5 +1,5 @@
 # [My School Github](https://github.com/bisqqSchool)
-I made a separate github account to store my school assignments and projects and kept my personal projects in this Github account, to keep things organized.
+I made a separate github account to store my school assignments and projects and kept my personal projects in this Github account, to keep things organized. (P.S. As I moved my projects over and created this account as a successor some of my contributions got deleted)
 
 # C++ 
 
