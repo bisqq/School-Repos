@@ -1,3 +1,6 @@
+# [My School Github](https://github.com/bisqqSchool)
+I made a separate github account to store my school assignments and projects and kept my personal projects in this Github account, to keep things organized.
+
 # C++ 
 
 ### [Red Black Tree](https://github.com/bisqqSchool/Red-Black-Tree)
