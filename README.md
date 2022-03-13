@@ -1,6 +1,10 @@
 # [My School Github](https://github.com/bisqqSchool)
 I made a separate github account to store my school assignments and projects and kept my personal projects in this Github account, to keep things organized. (P.S. As I moved my projects over and created this account as a successor some of my contributions got deleted)
 
+# Software Engineering
+### [Legends Arena](https://github.com/TheGamez/Legends-Arena)
+Web game app created in javascript, Heroku, PostgreSQL, HTML, CSS. I created and implemented the 3D Renderer using three.js(WebGL), the models and audio.
+
 # C++ 
 
 ### [Red Black Tree](https://github.com/bisqqSchool/Red-Black-Tree)
