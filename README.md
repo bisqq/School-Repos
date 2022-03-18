@@ -3,7 +3,7 @@ I made a separate github account to store my school assignments and projects and
 
 # Software Engineering
 ### [Legends Arena](https://github.com/TheGamez/Legends-Arena)
-Web game app created in javascript, Heroku, PostgreSQL, HTML, CSS. I created and implemented the 3D Renderer using three.js(WebGL), the models and audio.
+Web game app created in javascript, Heroku, PostgreSQL, HTML, CSS. I created and implemented the 3D Renderer using three.js(WebGL), the models, camera system, input controls with JavaScript and audio.
 
 # C++ 
 
