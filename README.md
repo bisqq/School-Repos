@@ -1,10 +1,6 @@
 # [My School Github](https://github.com/bisqqSchool)
 I made a separate github account to store my school assignments and projects and kept my personal projects in this Github account, to keep things organized. (P.S. As I moved my projects over and created this account as a successor some of my contributions got deleted)
 
-# Software Engineering
-### [Legends Arena](https://github.com/TheGamez/Legends-Arena)
-Web game app created in javascript, Heroku, PostgreSQL, HTML, CSS. I created and implemented the 3D Renderer using three.js(WebGL), the models, camera system, input controls with JavaScript and audio.
-
 # C++ 
 
 ### [Red Black Tree](https://github.com/bisqqSchool/Red-Black-Tree)
@@ -34,3 +30,14 @@ Replication of our school's older GPA calculator website using Heroku
 
 ### [Postgres Database](https://github.com/bisqqSchool/CMPT276-Assignment-2)
 Created a very basic website using Postgres and Heroku
+
+# Software Engineering
+### [Legends Arena](https://github.com/TheGamez/Legends-Arena)
+Web game app created in javascript, Heroku, PostgreSQL, HTML, CSS. I created and implemented the 3D Renderer using three.js(WebGL), the models, camera system, input controls with JavaScript and audio.
+
+# Java
+### [Fortress Defense Web](https://github.com/bisqqSchool/FortressDefense-Web)
+Web game similar to battleship, but only 1 player against the computer. Built in java with springboot
+
+### [Course Planner Web](https://github.com/bisqqSchool/CoursePlanner)
+Parsed csv data and outputed to different endpoints. This project includes the Observer pattern. Built in java with springboot.
