@@ -36,6 +36,12 @@ Created a very basic website using Postgres and Heroku
 Web game app created in javascript, Heroku, PostgreSQL, HTML, CSS. I created and implemented the 3D Renderer using three.js(WebGL), the models, camera system, input controls with JavaScript and audio.
 
 # Java
+### [Minion Tracker](https://github.com/bisqqSchool/Minion-Tracker)
+Console application
+
+### [Process Peer Feedback](https://github.com/bisqqSchool/Process-Peer-Feedback)
+Used Json to process peer feedback
+
 ### [Fortress Defense Web](https://github.com/bisqqSchool/FortressDefense-Web)
 Web game similar to battleship, but only 1 player against the computer. Built in java with springboot
 
